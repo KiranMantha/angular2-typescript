@@ -1,0 +1,1 @@
+A simple angularjs2 application using typescript.
